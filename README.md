@@ -193,7 +193,7 @@ I'm a Cloud and DevOps professional with six months of Azure-focused experience 
 ### 💼 Professional Experience
 
 **DevOps Engineer | Nafa Barter Pvt. Ltd.**  
-*December 2025 – May 2026*
+*November 2025 – April 2026*
 
 - Developed multistage CI/CD pipelines using Azure DevOps and GitHub Actions.
 - Used reusable YAML templates to improve pipeline consistency and reduce manual effort by approximately 40%.
