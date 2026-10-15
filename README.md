@@ -134,4 +134,106 @@ I'm a Cloud and DevOps professional with six months of Azure-focused experience 
 
 <p>
   <a href="https://github.com/Zeeshansgit/Wanderlust-project">
-    <img
+    <img src="https://img.shields.io/badge/Repository-Wanderlust-181717?style=for-the-badge&logo=github" alt="Wanderlust Repository"/>
+  </a>
+</p>
+
+**Technologies:** AWS, EKS, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, Argo CD, Prometheus, Grafana
+
+- Containerized frontend and backend services using Docker.
+- Provisioned AWS infrastructure using Terraform.
+- Worked with Kubernetes deployments and services on Amazon EKS.
+- Explored automated CI/CD and GitOps-based delivery with Argo CD.
+- Included monitoring and security-scanning tools in the project workflow.
+
+#### 2. Branch-Based Deployment with GitHub Actions
+
+<p>
+  <a href="https://github.com/Zeeshansgit/branch-based-deployment">
+    <img src="https://img.shields.io/badge/Repository-Branch--Based_Deployment-181717?style=for-the-badge&logo=github" alt="Branch-Based Deployment Repository"/>
+  </a>
+</p>
+
+**Technologies:** GitHub Actions, AWS EC2, CI/CD
+
+- Configured branch-based workflows for staging and production deployments.
+- Automated deployment steps to AWS EC2 using GitHub Actions.
+- Used health and version endpoints to validate application deployments.
+
+#### 3. Jenkins CI/CD Pipeline
+
+<p>
+  <a href="https://github.com/Zeeshansgit/SPC-Deployment">
+    <img src="https://img.shields.io/badge/Repository-Jenkins_CI%2FCD-181717?style=for-the-badge&logo=github" alt="Jenkins CI/CD Repository"/>
+  </a>
+</p>
+
+**Technologies:** Jenkins, Maven, SonarQube, Trivy, Nexus, Kubernetes
+
+- Created a pipeline for application builds and deployment workflows.
+- Integrated code-quality checks and container security scanning.
+- Used Nexus for artifact management and Kubernetes for deployment.
+
+#### 4. AWS Infrastructure Automation with Terraform
+
+<p>
+  <a href="https://github.com/Zeeshansgit/Terraform-bitbucket">
+    <img src="https://img.shields.io/badge/Repository-Terraform_AWS-181717?style=for-the-badge&logo=github" alt="Terraform AWS Repository"/>
+  </a>
+</p>
+
+**Technologies:** AWS, Terraform, Bitbucket Pipelines
+
+- Defined infrastructure using Terraform configuration files.
+- Configured pipeline stages for formatting and validation.
+- Created a controlled workflow for infrastructure provisioning.
+
+---
+
+### 💼 Professional Experience
+
+**DevOps Engineer | Nafa Barter Pvt. Ltd.**  
+*December 2025 – May 2026*
+
+- Developed multistage CI/CD pipelines using Azure DevOps and GitHub Actions.
+- Used reusable YAML templates to improve pipeline consistency and reduce manual effort by approximately 40%.
+- Supported application deployments across development, staging, and production environments.
+- Worked with Azure Virtual Machines, static IP configurations, and Azure Front Door.
+- Worked with Docker and Nginx Proxy Manager for containerization and domain routing.
+- Integrated SonarQube checks and used Prometheus and Grafana for monitoring and alerting.
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zeeshansgit&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeeshansgit&layout=compact&theme=transparent&hide_border=true" alt="Most Used Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Zeeshansgit&theme=transparent&hide_border=true" alt="GitHub Contribution Streak"/>
+</p>
+
+---
+
+### 🌐 Portfolio & Contact
+
+<p align="center">
+  <a href="https://zeeshan-devops-portfolio.vercel.app/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Explore_My_Portfolio-0078D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore My Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/zeeshan-ahmed-21b72a345/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+  </a>
+  <a href="mailto:zeeshanahmed.mohd6@gmail.com">
+    <img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an Email"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Learn. Build. Automate. Improve. Repeat. 🚀</i>
+</p>
